@@ -13,7 +13,7 @@
 
 See [here](./.github/CONTRIBUTING.md) for more information on how to contribute to Unkey.
 
-## Authors
+## Original Authors
 
 <a href="https://github.com/unkeyed/unkey/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=unkeyed/unkey" />
